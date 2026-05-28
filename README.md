@@ -74,5 +74,4 @@ analyzing 1,000 global sales records across 7 regions and 100+ countries.
 | `1000 Sales Records.csv` | Raw dataset |
 | `Revenue_Dashboard.xlsx` | Excel dashboard file |
 | `dashboard_screenshot.png` | Dashboard preview image |
-| `demo_video.mp4` | Interactive demo video |
 
